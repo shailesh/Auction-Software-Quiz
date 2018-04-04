@@ -20,7 +20,7 @@ Username is from users table. Username should match with user entered login form
 Ruby:
 I have used mysql database and these are the steps for processing it:
 
-Run the commands..
+# Run the commands..
 
 ### To install the gem
 `bundle install`
